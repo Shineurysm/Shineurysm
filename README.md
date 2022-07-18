@@ -1,1 +1,1 @@
-Hello! I am Shin, i just started coding this month and i think im doing pretty good at it, im not really that good about it though, but i will improve my coding every time i am coding, and im also interested at JavaScript Front-end development but i plan to learn more about Back-end development soon.
+I'm Shin and i make reasonable things
